@@ -326,7 +326,7 @@
 				ORGANIZATIONNAME = "Richard Chien";
 				TargetAttributes = {
 					7917CA87192CD21C00C8AE9E = {
-						DevelopmentTeam = JA4F747PM8;
+						DevelopmentTeam = 25EA3KAABR;
 					};
 					7917CAA2192CD21C00C8AE9E = {
 						TestTargetID = 7917CA87192CD21C00C8AE9E;
@@ -501,6 +501,7 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = 25EA3KAABR;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "BasketballTeamHelper/BasketballTeamHelper-Prefix.pch";
 				INFOPLIST_FILE = "BasketballTeamHelper/BasketballTeamHelper-Info.plist";
@@ -520,6 +521,7 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = 25EA3KAABR;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "BasketballTeamHelper/BasketballTeamHelper-Prefix.pch";
 				INFOPLIST_FILE = "BasketballTeamHelper/BasketballTeamHelper-Info.plist";
